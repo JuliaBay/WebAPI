@@ -1,0 +1,9 @@
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\bin\Debug\netcoreapp1.1\lab9.deps.json
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\bin\Debug\netcoreapp1.1\lab9.runtimeconfig.json
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\bin\Debug\netcoreapp1.1\lab9.runtimeconfig.dev.json
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\bin\Debug\netcoreapp1.1\lab9.dll
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\bin\Debug\netcoreapp1.1\lab9.pdb
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\obj\Debug\netcoreapp1.1\lab9.csprojResolveAssemblyReference.cache
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\obj\Debug\netcoreapp1.1\lab9.AssemblyInfo.cs
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\obj\Debug\netcoreapp1.1\lab9.dll
+C:\Users\JuliaBay\Downloads\lab9-master\lab9-master\lab9\lab9\obj\Debug\netcoreapp1.1\lab9.pdb
